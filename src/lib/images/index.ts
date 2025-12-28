@@ -1,4 +1,4 @@
-import { ImageResponse } from "@vercel/og";
+import { ImageResponse } from "next/og";
 import type { ReactElement } from "react";
 
 export interface ImageOptions {

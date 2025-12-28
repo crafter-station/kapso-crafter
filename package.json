@@ -17,7 +17,6 @@
     "@kapso/whatsapp-cloud-api": "^0.1.1",
     "@neondatabase/serverless": "^1.0.2",
     "@vercel/blob": "^2.0.0",
-    "@vercel/og": "^0.8.6",
     "ai": "^6.0.3",
     "drizzle-orm": "^0.45.1",
     "next": "16.1.1",
